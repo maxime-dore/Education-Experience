@@ -6,7 +6,7 @@ This repository sums up all my working projects realised during my studies at IN
 # Summary of this repository
 
 During my engineering studes I followed the [Machine Learning](https://github.com/wikistat/Apprentissage), the [High Dimensional & Deep Learning](https://github.com/wikistat/High-Dimensional-Deep-Learning) as well as [Artificial Intelligence Frameworks](https://github.com/wikistat/AI-Frameworks) courses over two years.
- In theses courses, I acquired knowledge in machine and deep learning algorithms and their application on various type of data. This knowledge is primordial to become a DataScientist, the practical works done during these year of studies can be found on the following github repository. [Wikistat](https://github.com/wikistat)
+ In theses courses, I acquired knowledge in machine and deep learning algorithms and their application on various type of data. This knowledge is primordial to become a DataScientist, the practical works done during these year of studies can be found on the [Wikistat](https://github.com/wikistat) github repository. 
 
 
 
