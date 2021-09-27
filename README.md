@@ -5,10 +5,9 @@ This repository sums up all my working projects realised during my studies at IN
 
 # Summary of this repository
 
-During my engineering studes I followed the [Machine Learning](https://github.com/wikistat/Apprentissage), the [High Dimensional & Deep Learning](https://github.com/wikistat/High-Dimensional-Deep-Learning) as well as [Artificial Intelligence Frameworks] courses over two years.
- In theses courses, I acquired knowledge in machine and deep learning algoritms and their application on various type of data. This knowledge is primordial to become a DataScientist. 
+During my engineering studes I followed the [Machine Learning](https://github.com/wikistat/Apprentissage), the [High Dimensional & Deep Learning](https://github.com/wikistat/High-Dimensional-Deep-Learning) as well as [Artificial Intelligence Frameworks](https://github.com/wikistat/AI-Frameworks) courses over two years.
+ In theses courses, I acquired knowledge in machine and deep learning algorithms and their application on various type of data. This knowledge is primordial to become a DataScientist, the practical works done during these year of studies can be found on the following github repository. [Wikistat](https://github.com/wikistat)
 
-This course has three main objectives. You will 
 
 
 
@@ -20,9 +19,9 @@ This course has three main objectives. You will
  
  ## Technical requirements. 
  
- All the libraries required for these modules are listed in the `requirements.txt` 
+ All the libraries required to execute the notebooks are listed in the `requirements.txt` file. 
  
- To build a functional environment in pandas execute the following lines:
+ Thus, it is recommended to build a new functional environment. To do so, execute the following lines:
  
  ```
 conda create -n AIF python=3.8
