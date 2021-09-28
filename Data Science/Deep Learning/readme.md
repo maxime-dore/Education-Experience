@@ -7,7 +7,9 @@
 
 You will find here the elements used in a group project to implement the [YOLOv3 algorithm](https://youtu.be/WP4F6aK1Ft8). <br>
 The algorithm can detect, identify and delimit a wide range of 80 objects on which it was trained and on any image sizes.
-Here is an exemple an implementation we made : 
+Here is an exemple of an implementation we made : <br>
+<img src="result.png" style="width:400px; height:250px; float: center" title="Result" alt="toto">
 
 
+If you want to run the program with your own pictures, first pull this repository and then dowload the associated [weights](https://pjreddie.com/media/files/yolov3.weights)
 
