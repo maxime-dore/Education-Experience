@@ -12,5 +12,5 @@ Here is an exemple of an implementation we made : <br>
 
 
 If you want to run the program with your own pictures, first pull this repository and then dowload the associated [weights](https://pjreddie.com/media/files/yolov3.weights) and save them into the local repository in which you pulled. <br>
-Then you just have to add any pictures of you choice in the Image file.
+Then you just have to add any pictures of you choice in your local version of the **Images** file pulled.
 
