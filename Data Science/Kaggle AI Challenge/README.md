@@ -22,7 +22,7 @@ Run the following lines in your terminal :
 > nltk.download('stopwords') <br />
 
 ##### Load data
-> Download from the [link](https://www.kaggle.com/c/defi-ia-insa-toulouse/data) the data.
+> Download from the challenge on this [link](https://www.kaggle.com/c/defi-ia-insa-toulouse/data).
 
 
 There are multiple ways to run the code :
