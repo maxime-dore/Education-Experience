@@ -20,6 +20,8 @@ During my engineering studies, I followed the [Machine Learning](https://github.
  
  ## Technical requirements. 
  
+ You will find many Python projects in this github repository. <br>
+ 
  All the libraries required to execute the notebooks are listed in the `requirements.txt` file. 
  
  Thus, it is recommended to build a new functional environment. To do so, execute the following lines:
