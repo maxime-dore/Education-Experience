@@ -1,6 +1,6 @@
 # Education-Experience
 
-**This repository sums up all my working projects realised during my studies at INSA and Toulouse Business School.**
+**This repository sums up all my working projects realised during my studies at INSA and Toulouse Business School. It is progressively filled with newer projects when they are completed.**
 
  <a href="https://www.math.insa-toulouse.fr/fr/index.html" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/>  &emsp;[*Applied mathematics*](http://www.math.insa-toulouse.fr/fr/index.html) | [`Data Science`](http://www.math.insa-toulouse.fr/fr/enseignement.html) |  [Finance](https://www.tbs-education.fr/formation/msc-equity-research-and-investment-management/) &emsp; <a href="https://www.tbs-education.fr/formation/msc-equity-research-and-investment-management/"><img src = "https://www.tbs-education.fr/content/uploads/sites/4/2021/07/logo-tbs-education-inspiring-life.png" style="float: right; height: 100px; width: 180px; display: inline" alt="tbs"/> </a>
 
