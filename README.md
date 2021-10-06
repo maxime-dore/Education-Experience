@@ -22,13 +22,4 @@ During my engineering studies, I followed the [Machine Learning](https://github.
  
  You will find many Python projects in this github repository. <br>
  
- All the libraries required to execute the notebooks are listed in the `requirements.txt` file. 
- 
- Thus, it is recommended to build a new functional environment. To do so, execute the following lines:
- 
- ```
-conda create -n AIF python=3.8
-conda activate AIF
-pip install -r requirements.txt 
-jupyter labextension install jupyterlab-plotly@4.12.0
-```
+If you want to run them, you should download [Jupyter Notebook](https://jupyter.org/install) wether following the tutorial or using [Anaconda](https://www.anaconda.com/products/individual) for a simpler and more visual installation providing all other tools for datascience.
